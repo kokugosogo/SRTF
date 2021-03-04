@@ -12,9 +12,20 @@ Shortest Remaining Time Firstのターンアラウンドタイム及び平均タ
 # Usage
 
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
-* コンパイルコマンド : javac -encoding UTF-8 SRTF.java
-* 実行コマンド : java SRTF
+* コンパイルコマンド
+
+---bash
+javac -encoding UTF-8 SRTF.java
+---
+
+* 実行コマンド
+* 
+bash---
+java SRTF
+---
+
 * 入力データ例
+
 ---bash
 4
 0 7
