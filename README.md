@@ -14,35 +14,35 @@ Shortest Remaining Time Firstのターンアラウンドタイム及び平均タ
 DEMOの実行方法など、"hoge"の基本的な使い方を説明する
 * コンパイルコマンド
 
----bash
+```bash
 javac -encoding UTF-8 SRTF.java
----
+```
 
 * 実行コマンド
 * 
-bash---
+```bash
 java SRTF
----
+```
 
 * 入力データ例
 
----bash
+```bash
 4
 0 7
 2 6
 5 1
 7 2
----
+```
 
 # Note
 
 入力するデータは、1行目にはデータの個数"n"、2行目以降にはジョブの"到着時刻 処理時間"の順
----bash
+```bash
 n
 Job[0]_ARV Job[0]_TIME
 Job[1]_ARV Job[1]_TIME
 ...
----
+```
 
 # Author
 
